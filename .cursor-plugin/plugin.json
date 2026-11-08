@@ -1,0 +1,28 @@
+{
+  "$schema": "https://cursor.com/schemas/cursor-plugin/plugin.json",
+  "name": "dyslexiasteps",
+  "displayName": "Dyslexia Steps",
+  "version": "1.0.0",
+  "description": "Phonics and sight word lists by grade from Dyslexia Steps: a skill plus its hosted MCP server (read-only, no key).",
+  "author": {
+    "name": "Dyslexia Steps",
+    "email": "hi@dyslexiasteps.com",
+    "url": "https://dyslexiasteps.com"
+  },
+  "publisher": "Dyslexia Steps",
+  "homepage": "https://dyslexiasteps.com/mcp",
+  "repository": "https://github.com/Dyslexia-Steps/dyslexiasteps-agent-plugin",
+  "license": "MIT",
+  "logo": "assets/logo.png",
+  "category": "developer-tools",
+  "keywords": [
+    "phonics",
+    "sight-words",
+    "dyslexia",
+    "education",
+    "mcp",
+    "skills"
+  ],
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json"
+}
