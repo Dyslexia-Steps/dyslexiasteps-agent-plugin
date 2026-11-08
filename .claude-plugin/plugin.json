@@ -1,0 +1,22 @@
+{
+  "name": "dyslexiasteps",
+  "version": "1.0.0",
+  "description": "Phonics and sight word lists by grade from Dyslexia Steps: CVC words, word families, Dolch sight words, digraphs and vowel patterns, plus word lists in German, Spanish, French, Dutch and Brazilian Portuguese, with the source of every grade placement.",
+  "author": {
+    "name": "Dyslexia Steps",
+    "email": "hi@dyslexiasteps.com",
+    "url": "https://dyslexiasteps.com"
+  },
+  "homepage": "https://dyslexiasteps.com/mcp",
+  "repository": "https://github.com/Dyslexia-Steps/dyslexiasteps-agent-plugin",
+  "license": "MIT",
+  "keywords": [
+    "phonics",
+    "sight-words",
+    "word-lists",
+    "dyslexia",
+    "dolch",
+    "reading",
+    "mcp"
+  ]
+}
